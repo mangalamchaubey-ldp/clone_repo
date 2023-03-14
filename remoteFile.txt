@@ -1,1 +1,0 @@
-We are making changes to cloned repository and now we have to push these changes to original repo 
